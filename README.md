@@ -4,7 +4,8 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=ronywahyuu.ronywahyuu)
+<!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=ronywahyuu.ronywahyuu) -->
+![Profile views](https://komarev.com/ghpvc/?username=ronywahyuu)
 [![Github](https://img.shields.io/github/followers/ronywahyuu?label=Follow&style=social)](https://github.com/ronywahyuu)
 
 <div size='20px'> Hi! My name is Rony. Thank You for taking the time to view my GitHub Profile :smile:
