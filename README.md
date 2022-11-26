@@ -17,7 +17,7 @@
 
 <!-- - 🔭 I’m currently working on My Blog, Github Project -->
 
-- 🌱 I’m currently learning React Js, Node Js, Microservices
+- 🌱 I’m currently learning on Full-Stack Web Development
 
 - 👯 I’m looking to collaborate on Projects
 
